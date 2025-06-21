@@ -1,0 +1,1 @@
+A command-line number-guessing game developed in Python, where the player guesses a secret 4-digit number. The game provides feedback as "Cows" (correct digit, wrong position) and "Bulls" (correct digit, correct position), with input handling, logic, and game loop implemented using core Python.
